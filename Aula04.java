@@ -6,16 +6,6 @@ class Aula04{
 
         c1.status();
 
-
-
-
-
-
-
-
-
-
-
     //         //Metodo acessor
     //     c1.setModelo(" Bic ");
         
@@ -32,10 +22,6 @@ class Aula04{
 
 
     // System.out.println("Possuo uma caneta" + c1.getModelo() + "de ponta " + c1.getPonta());
-
-
-
-
 
     }
 }
