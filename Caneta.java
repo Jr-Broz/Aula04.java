@@ -6,12 +6,16 @@ private float ponta;
 private String cor = "Azul";
 private boolean tampada;
 
-public  Caneta(){ //Este é o método construtor
+public  Caneta(String m, String c, float p){ //Este é o método construtor
 
 
 this.tampar();
-this.cor = "Azul";
-this.modelo = "Bic";
+this.modelo = m;
+this.cor = c; 
+this.ponta = p;
+
+
+
 }
 
 

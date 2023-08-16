@@ -2,14 +2,14 @@ class Aula04{
 
     public static void main(String[] args) {
 
-        Caneta c1 = new Caneta();
+        Caneta c1 = new Caneta("Nic", "Verde", 0.5f);
 
         c1.status();
+        System.out.println("==============");
+        Caneta c2 = new Caneta("PHP", "Roxo", 0.9f);
 
-
-
-
-
+        c2.status();
+        
 
 
 
