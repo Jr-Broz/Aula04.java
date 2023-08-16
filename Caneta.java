@@ -6,6 +6,9 @@ private float ponta;
 private String cor = "Azul";
 private boolean tampada;
 
+//O construtor tem o mesmo nome da classe
+
+ 
 public  Caneta(){ //Este é o método construtor
 
 
@@ -52,9 +55,7 @@ public void destampar(){
 }
 
 
-
-
-
+//Metodo
 public void status(){
 
     System.out.println("Sobre a caneta: ");
@@ -64,11 +65,6 @@ public void status(){
     System.out.println("Tampada: " + this.tampada);
 
 }
-
-
-
-
-
 
 
 }
