@@ -9,19 +9,12 @@ class Aula04{
         Caneta c2 = new Caneta("PHP", "Roxo", 0.9f);
 
         c2.status();
-        
-
-
-
-
-
 
     //         //Metodo acessor
     //     c1.setModelo(" Bic ");
         
     //     //Acessar diretamente pelo atributo. Não funciona caso acessibilidade = private
     //    // c1.modelo = "Bic"; 
-
 
 
     //     c1.setPonta( 0.5f);
@@ -35,10 +28,3 @@ class Aula04{
 
     }
 }
-
-
-
-
-
-
-
