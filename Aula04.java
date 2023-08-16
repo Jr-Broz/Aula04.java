@@ -33,10 +33,6 @@ class Aula04{
 
     // System.out.println("Possuo uma caneta" + c1.getModelo() + "de ponta " + c1.getPonta());
 
-
-
-
-
     }
 }
 
